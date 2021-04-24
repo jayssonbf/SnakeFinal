@@ -45,6 +45,7 @@ In the following demonstration, you will see two different cases of how you can 
 
 ## Acknowledgments
 
+ - I'd like to express my special thanks of gratitude to prof. Paul Allen for helping me to complete this project. 
 
 ## History
 
